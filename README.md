@@ -31,6 +31,7 @@ O objetivo deste desafio é colocar em prática o que você estudou a respeito d
   <summary>
     O array <code>decemberDaysList</code> contém os dois últimos dias de novembro e os dias do mês de dezembro. Sua função deve criar dinamicamente cada dia do calendário e os adicionar dentro da tag <code>ul</code>.
   </summary>
+</details>
 
 ## Exercício 2 – Implemente uma função que muda a cor de fundo dos dias que possuem a classe `"holiday"`
 
